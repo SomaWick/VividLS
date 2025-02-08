@@ -5,7 +5,7 @@ VividLS is a Python 3 script that mimics and enhances the behavior of the Unix `
 ## Features
 
 - **Colored Permissions:** Each permission character (`r`, `w`, `x`, `-`) is individually colored.
-- **File Icons:** Uses Nerd Font icons to visually represent directories, symlinks, executables, and regular files.
+- **File Icons:** Uses [Nerd Font](https://www.nerdfonts.com/) icons to visually represent directories, symlinks, executables, and regular files.
 - **Long Format Output:** With the `-l` option, displays detailed file information with custom-colored fields.
 - **Column Layout:** Non‑long mode output is neatly organized into columns.
 - **Customizable:** Easily adjust colors and icons by modifying the script.
