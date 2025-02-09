@@ -32,7 +32,7 @@ VividLS is a Python 3 script that mimics and enhances the behavior of the Unix `
   Run the script with the desired options:
 
    ```bash
-   ./vividls.py [directory] [options]
+   ./vividls.py [options] [directory]
    ```
 
 ## Options
@@ -44,15 +44,15 @@ VividLS is a Python 3 script that mimics and enhances the behavior of the Unix `
 
 ### Examples:
 
-  - List the current directory with icons and colors:
-    ```bash
-    ./vividls.py
-    ```
+  1. **List the current directory with icons and colors:**  
+     ```
+     ./vividls.py
+     ```
 
-  - List all files (including hidden) in long format:
-    ```
-    ./vividls.py -a -l
-    ```
+  2. **List all files (including hidden) in long format:**
+     ```
+     ./vividls.py -a -l
+     ```
 
 ## Alias Setup
 
