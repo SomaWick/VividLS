@@ -28,9 +28,7 @@ VividLS is a Python 3 script that mimics and enhances the behavior of the Unix `
    ```
 
 ## Usage
-
-  Run the script with the desired options:
-
+   Run the script with the desired options:
    ```bash
    ./vividls.py [options] [directory]
    ```
